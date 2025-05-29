@@ -55,7 +55,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         
         let createdText = NSAttributedString(string: "Created by:\n\n")
         attributedText.append(createdText)
-        let names = ["Jakub Chrobok,", "Weronika Chruszcz,", "Bartosz Jarzyński"]
+        let names = ["Jakub Chrobok"]
         for name in names {
             attributedText.append(NSAttributedString(string: " "))
             attributedText.append(NSAttributedString(string: name))
