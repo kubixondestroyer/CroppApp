@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  CropApp
 //
-//  Created by Magdalena Maloszyc on 13/06/2023.
+//  
 //
 import SwiftUI
 import CropViewController
